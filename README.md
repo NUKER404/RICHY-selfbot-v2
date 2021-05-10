@@ -3,4 +3,3 @@ Yo! This is richy , Back with another selfbot! This is the complete version of r
 
 
 
-# Credits to scalic selfbot also xD
