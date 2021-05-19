@@ -578,7 +578,7 @@ async def gay(ctx, user: discord.Member = None):
                 async with session.get(endpoint) as resp:
                     image = await resp.read()
             with io.BytesIO(image) as file:
-                await ctx.send(file=discord.File(file, f"exeter_invert.png"))
+                await ctx.send(file=discord.File(file, f"RICHY_invert.png"))
         except:
             await ctx.send(endpoint)
     else:
@@ -589,7 +589,7 @@ async def gay(ctx, user: discord.Member = None):
                 async with session.get(endpoint) as resp:
                     image = await resp.read()
             with io.BytesIO(image) as file:
-                await ctx.send(file=discord.File(file, f"exeter_invert.png"))
+                await ctx.send(file=discord.File(file, f"RICHY_invert.png"))
         except:
             await ctx.send(endpoint)
 
